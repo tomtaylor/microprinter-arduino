@@ -1,0 +1,8 @@
+#define secret "secretgoeshere"
+#define host "hostgoeshere"
+
+# replace these with your own
+byte mac[] = { 0xDE, 0xAD, 0xBE, 0xEF, 0xFE, 0xED };
+byte ip[] = { 192, 168, 100, 160 };
+byte gateway[] = { 192, 168, 100, 1 };
+byte server[] = { 67, 207, 142, 48 };
